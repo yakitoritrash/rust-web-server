@@ -38,7 +38,6 @@ Ensure you have the Rust toolchain installed. You can get it from the official s
 
 1.  **Clone the repository:**
     ```bash
-    # Replace with your actual repo URL
     git clone [https://github.com/yakitoritrash/rust_web_server.git](https://github.com/yakitoritrash/rust_web_server.git)
     cd rust_web_server
     ```
