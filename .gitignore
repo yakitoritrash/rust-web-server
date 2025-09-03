@@ -1,6 +1,7 @@
-target/
+/target/
 
 *.swp
 
 .DS_Store
 Thumbs.db
+
